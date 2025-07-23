@@ -1,4 +1,6 @@
 # SecretScanner
+<!-- Trigger Secret scan -->
+
 
 [![Documentation](https://img.shields.io/badge/documentation-read-green)](https://community.deepfence.io/docs/secretscanner/)
 [![GitHub license](https://img.shields.io/github/license/deepfence/SecretScanner)](https://github.com/deepfence/SecretScanner/blob/master/LICENSE)
